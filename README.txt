@@ -13,5 +13,3 @@ directoarelor intr-un mod recursiv, tinandu-se cont la fiecare pas de cate ori
 s-a inaintat. Pentru rmdir si rm forma este una asemanatoare, totusi din cauza 
 diferentelor de forma a celor 2 stringuri de nume, a fost nevoie de o abordare 
 diferita pentru fiecare dintre acestea.
-La eliberarea totala de memorie am intampinat o problema si am explicat-o si
-in comentariile din cod.
