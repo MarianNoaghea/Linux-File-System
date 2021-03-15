@@ -1,3 +1,7 @@
+Summary:
+I implemented a file system in C using Linked Lists, every Directory has 2 lists, 1 for subdirectories and 1 for files.
+The comands avaible: ls, mkdir, rmdir, cd, touch, rm, cat, tree.
+
 Sistemul de fisiere este gandit in felul urmator: directorul de baza este root
 de acesta avand 2 liste: una de fisiere si una de directoare, directoarele sunt 
 de acelasi tip ca si rootul si la randul lor au 2 liste, si asa mai departe.
